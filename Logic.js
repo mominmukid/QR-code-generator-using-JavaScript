@@ -1,3 +1,4 @@
+
 const submit=document.getElementById('submit');
 const con=document.querySelector('#url').value;
 const imgBox=document.getElementById('qr');
